@@ -1,4 +1,4 @@
-#Approach
+# Approach
 
 In order to traverse the matrix spirally we need to go through following steps
 step 1. left to right
@@ -7,7 +7,8 @@ step 3. right to left
 step 4. bottom to top
 then repeat from step 1
 And in each iteration we will either cover one column or row so we just assign each of the above step with direction and then add 1 to get to the next step.
-#Code
+
+# Code
 ```
 class Solution {
 public:
