@@ -1,4 +1,4 @@
 # Leetcode
 
-Here I post the Leetcode Solutions
-Happy Coding🙂
+Here I post the Leetcode Solutions.
+Happy Coding!!🙂
