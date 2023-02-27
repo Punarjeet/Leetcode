@@ -51,5 +51,5 @@ public:
 ```
 Space complexity of solution is still ```O(n)``` but as per question it is ```O(1)``` as we are not considering the output array. 
 
-Let me know in comments if you have any question or improvements.
+Let me know in comments if you have any question or suggestions.
 Hope it helps!🙂
